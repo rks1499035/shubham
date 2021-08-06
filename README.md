@@ -1,8 +1,7 @@
 # shubham
-hello
-# music Roy bot
-### ![MusicsNexa_bot](https://telegra.ph/file/6f492162d375674fe959c.jpg)
-**A [ABHINAS_ROY](https://t.me/abhinasroy) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
+
+### ![MusicsNexa_bot](https://telegra.ph/file/4fa616e9c77b433de7f68.jpg)
+**A [SHUBHAM_SHARMA](https://t.me/shubhamsharmajee) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
 ## Note!⚠️ ,
 _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 ## Features 🔥️
@@ -24,7 +23,7 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 - **Update Your Bot Without Leaving Telegram**
 **Please Refer [Command Explanation](https://itz-fork.gitbook.io/callsmusic-plus/about#command-explanation) to Know How To Use These Commands and Know More About Them!**
 # Deployment
-Before You Deploy make sure you Starred & Forked **[father!](https://t.me/abhinasroy)** 🤗️
+Before You Deploy make sure you Starred & Forked **[father!](https://t.me/shubhamsharmajee)** 🤗️
 ## The Easy Way ⚡️
 ### With Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roymusicplay/musicroy-bot)
@@ -37,13 +36,13 @@ Before You Deploy make sure you Starred & Forked **[father!](https://t.me/abhina
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://itz-fork.gitbook.io/callsmusic-plus/deploying-the-bot)**
-or Ask Me In **[ABHINAS SUPPORT GROUP](https://t.me/DOSTI_GROUP_1234)**
+or Ask Me In **[SHUBHAM SUPPORT GROUP](https://t.me/sks_musicsupport)**
 # More Info** For the Guides on How to Deploy and Getting Config Values.
 <p align="center">
  
 </p>
 ## Credits
-- **[ABHINAS_ROY](https://t.me/abhinasroy) ~ This is the base Repo! ❤️**
+- **[SHUBHAM_SHARMA](https://t.me/shubhamsharmajee) ~ This is the base Repo! ❤️**
 - **[Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn)** : development
 - **[Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)** : PyTgCalls
 - **Mr Dark prince**
