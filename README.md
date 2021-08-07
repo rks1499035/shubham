@@ -26,13 +26,12 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 Before You Deploy make sure you Starred & Forked **[father!](https://t.me/shubhamsharmajee)** 🤗️
 ## The Easy Way ⚡️
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rks1499035/shubham)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rks1499035/shubham.git)
 
 
 #### Get Pyrogram String Session
 <a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
-<a href="https://replit.com/@ChankitSaini/GenerateStringSession"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
-
+ 
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://itz-fork.gitbook.io/callsmusic-plus/deploying-the-bot)**
